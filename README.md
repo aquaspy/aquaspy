@@ -1,7 +1,7 @@
 # Hi, I'm Augusto Magno👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/augusto-magno-g/)
-[![GitHub Followers](https://img.shields.io/github/followers/<your_username>?style=social)](https://github.com/aquaspy)
+[![GitHub Followers](https://img.shields.io/github/followers/aquaspy?style=social)](https://github.com/aquaspy)
 
 I'm a Computer Science student with hands-on experience in Linux, Bash, and WordPress.  
 I previously worked in WordPress support and love troubleshooting and building practical solutions.  
@@ -35,8 +35,8 @@ Currently learning Python—recently built an e-commerce API using Flask.
 
 ## 📊 GitHub Metrics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your_username>&layout=compact&theme=transparent)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your_username>&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquaspy&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aquaspy&show_icons=true&theme=transparent)
 
 
 ---
